@@ -6,7 +6,7 @@ Endless cut - 2d slasher, where your sword want to kill you
 ![Cover](Screenshots/Cover.png)
 
 # Downloads and Links
-Available in [Windows, OSX, Linux and Web](https://itch.io/jam/rigidjam). If you encounter any problem, please leave a issue! 
+Available in [Windows, OSX and Linux](https://itch.io/jam/rigidjam). If you encounter any problem, please leave a issue! 
 
 # How to play:
  * Keyboard:
