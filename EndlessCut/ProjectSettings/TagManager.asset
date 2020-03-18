@@ -8,6 +8,7 @@ TagManager:
   - EnemySpotter
   - Wall
   - Management
+  - Damage
   layers:
   - Default
   - TransparentFX
