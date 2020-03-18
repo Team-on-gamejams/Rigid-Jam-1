@@ -23,5 +23,5 @@ Just a one more 1-hour jam, hosted by [member](https://discordapp.com/invite/2vk
  * https://rvros.itch.io/pixel-art-animated-slime
 
 # Screenshots
-![Screen1](Screenshots/Screenshot1.jpg)
-![Screen1](Screenshots/Screenshot2.jpg)
+![Screen1](Screenshots/1.png)
+![Screen1](Screenshots/2.png)
